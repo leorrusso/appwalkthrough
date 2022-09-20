@@ -8,7 +8,7 @@ The file provided on this repo is of the extension .zip
 This is demo app that contains the component. You can work with the component standalone, we will cover it later.
 For installing it onto your environment please do the following
 1. Create a new canvas app
-2. App > Import canvcas app > Upload
+2. App > Import canvas app > Upload
 3. Once the package is loaded open the app
 
 ## Context
@@ -44,7 +44,7 @@ Table(
 Component visible property should be controled using the global variable "gblFlyoutVisible"
 
 ## Responsiveness
-Controls X and Y position uses relative formula so the component will always be centered. After adding the component to the screen I recomend setting Width for App.Widht and Height for App.Height. This will make the component fit different screen sizes. However it is important to mention this will only make subtle adjustments and not fully adapt for any screen size.
+Controls X and Y position uses relative formula so the component will always be centered. After adding the component to the screen I recomend setting **Width** for **App.Width** and **Height** for **App.Height**. This will make the component fit different screen sizes. However it is important to mention this will only make subtle adjustments and not fully adapt for any screen size.
 
 ## Output property: IdSelectedItem
 In case you want to trigger some event related to the instruction, use this property.
